@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Flutter and Testing Apps.
 - 💞️ I’m looking to collaborate on projects writtern in (C++, Java, Python, Dart) programming Languages.
 - 📫 How to reach me :
-- Linkedin:https://www.linkedin.com/in/abdelhady-al-sayed-17266b1a0/
-- Facebook:https://www.facebook.com/abdoshalsh.abdo/
+- Linkedin: https://www.linkedin.com/in/abdelhadyelsaid/
+- Facebook: https://www.facebook.com/abdoshalsh.abdo/
 
 <!---
 Abdelhadyelsaid/Abdelhadyelsaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
